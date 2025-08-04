@@ -6,7 +6,7 @@ This Python project allows you to calculate the **molar mass** of chemical compo
 - Hydration dots (e.g., `CuSO4·5H2O`)
 - Ionic compounds with net charges (e.g., `NH4^+`, `SO4^2-`)
 
-The core logic is implemented in a standalone module (`chem_utils.py`) and can be used both in terminal mode (`main.py`) or in a Jupyter Notebook.
+The core logic is implemented in a standalone module (`chem_utils.py`) and can be used both in terminal mode (`main.py`) or in a Jupyter Notebook (molar_mass_calculator.ipynb).
 
 ---
 
