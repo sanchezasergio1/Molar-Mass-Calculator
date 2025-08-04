@@ -1,0 +1,8 @@
+### ✅ `requirements.txt`
+
+# Required for notebook use
+notebook
+# Optional: for better rendering if you use ipywidgets later
+# ipywidgets
+
+# No additional packages are required for the core script
